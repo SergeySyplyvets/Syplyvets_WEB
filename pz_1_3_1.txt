@@ -1,2 +1,3 @@
 git config --global user.name "SergeySyplyvets"
 git config --global user.email "kartofanpro777gmail.com"
+git clone https://github.com/zvyaga-i/zvyaga_WEB.git
